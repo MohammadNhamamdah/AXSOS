@@ -1,0 +1,32 @@
+button{
+    border-radius: 20px;
+    color: aqua;
+    background-color: grey;
+    border-color: aqua;
+    border-style: solid;
+    border-width: 0.5px;
+    margin: 4px;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    
+
+}
+.but1{
+    border-radius: 20px;
+    color: white;
+    background-color: aqua;
+    width: 30px;
+    height: 30px;
+    
+    
+}
+.but2{
+    background-color: blue;
+    border-color: black;
+    border-radius: 0%;
+    box-shadow: 2px 3px black;
+    width: 170px;
+    height: 35px;
+}
